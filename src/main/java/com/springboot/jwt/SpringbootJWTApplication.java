@@ -1,13 +1,13 @@
-package com.remarketretro;
+package com.springboot.jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RemarketRetroApplication {
+public class SpringbootJWTApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RemarketRetroApplication.class, args);
+        SpringApplication.run(SpringbootJWTApplication.class, args);
     }
 
 }

@@ -8,11 +8,11 @@
 		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>remarket-retro</artifactId>
+	<groupId>com.springboot</groupId>
+	<artifactId>jwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>remarket-retro</name>
-	<description>Backend for the Remarket Retro Application</description>
+	<name>springboot-jwt</name>
+	<description>JWT Implementation</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

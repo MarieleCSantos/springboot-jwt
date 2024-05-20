@@ -1,7 +1,7 @@
-package com.remarketretro.controller;
+package com.springboot.jwt.controller;
 
-import com.remarketretro.entity.Role;
-import com.remarketretro.service.RoleService;
+import com.springboot.jwt.entity.Role;
+import com.springboot.jwt.service.RoleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

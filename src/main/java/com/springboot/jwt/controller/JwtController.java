@@ -1,8 +1,8 @@
-package com.remarketretro.controller;
+package com.springboot.jwt.controller;
 
-import com.remarketretro.entity.JwtRequest;
-import com.remarketretro.entity.JwtResponse;
-import com.remarketretro.service.JwtService;
+import com.springboot.jwt.entity.JwtRequest;
+import com.springboot.jwt.entity.JwtResponse;
+import com.springboot.jwt.service.JwtService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,7 +1,7 @@
-package com.remarketretro.configuration;
+package com.springboot.jwt.configuration;
 
-import com.remarketretro.service.JwtService;
-import com.remarketretro.util.JwtUtil;
+import com.springboot.jwt.service.JwtService;
+import com.springboot.jwt.util.JwtUtil;
 import io.jsonwebtoken.ExpiredJwtException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

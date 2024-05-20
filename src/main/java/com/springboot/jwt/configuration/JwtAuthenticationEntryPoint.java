@@ -1,4 +1,4 @@
-package com.remarketretro.configuration;
+package com.springboot.jwt.configuration;
 
 
 import org.springframework.security.core.AuthenticationException;

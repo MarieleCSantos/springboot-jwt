@@ -1,4 +1,4 @@
-package com.remarketretro.entity;
+package com.springboot.jwt.entity;
 
 import lombok.Getter;
 import lombok.Setter;

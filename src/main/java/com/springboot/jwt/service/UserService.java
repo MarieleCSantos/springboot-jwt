@@ -1,9 +1,9 @@
-package com.remarketretro.service;
+package com.springboot.jwt.service;
 
-import com.remarketretro.dao.RoleDao;
-import com.remarketretro.dao.UserDao;
-import com.remarketretro.entity.Role;
-import com.remarketretro.entity.User;
+import com.springboot.jwt.dao.RoleDao;
+import com.springboot.jwt.dao.UserDao;
+import com.springboot.jwt.entity.Role;
+import com.springboot.jwt.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

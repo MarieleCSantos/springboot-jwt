@@ -1,10 +1,10 @@
-package com.remarketretro.service;
+package com.springboot.jwt.service;
 
-import com.remarketretro.dao.UserDao;
-import com.remarketretro.entity.JwtRequest;
-import com.remarketretro.entity.JwtResponse;
-import com.remarketretro.entity.User;
-import com.remarketretro.util.JwtUtil;
+import com.springboot.jwt.dao.UserDao;
+import com.springboot.jwt.entity.JwtRequest;
+import com.springboot.jwt.entity.JwtResponse;
+import com.springboot.jwt.entity.User;
+import com.springboot.jwt.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.BadCredentialsException;

@@ -1,6 +1,6 @@
-package com.remarketretro.dao;
+package com.springboot.jwt.dao;
 
-import com.remarketretro.entity.User;
+import com.springboot.jwt.entity.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

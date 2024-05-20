@@ -1,7 +1,7 @@
-package com.remarketretro.controller;
+package com.springboot.jwt.controller;
 
-import com.remarketretro.entity.User;
-import com.remarketretro.service.UserService;
+import com.springboot.jwt.entity.User;
+import com.springboot.jwt.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;

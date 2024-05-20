@@ -1,7 +1,7 @@
-package com.remarketretro.service;
+package com.springboot.jwt.service;
 
-import com.remarketretro.dao.RoleDao;
-import com.remarketretro.entity.Role;
+import com.springboot.jwt.dao.RoleDao;
+import com.springboot.jwt.entity.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
